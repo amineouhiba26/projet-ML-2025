@@ -1,0 +1,15 @@
+flask==3.1.0
+psycopg2==2.9.7
+dotenv==0.9.9
+ultralytics==8.3.100
+opencv-python==4.11.0.86
+numpy==1.26.4
+pillow>=8.0.0
+matplotlib==3.9.4
+tensorflow==2.19.0
+keras==3.9.2
+scikit-learn==1.6.1
+roboflow==1.1.60
+kaggle==1.7.4
+PyJWT==2.10.0
+kagglehub==0.3.11
