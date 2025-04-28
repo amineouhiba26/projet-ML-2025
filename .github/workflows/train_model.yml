@@ -31,7 +31,7 @@ jobs:
 
       - name: Train model
         run: |
-          python train_model.py
+          python train_electro_model.py
 
       - name: Add trained model to GitHub
         run: |
